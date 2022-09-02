@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/carteira_compartilhada_build/static/css/main.345b5cb0.css",
+    "main.js": "/carteira_compartilhada_build/static/js/main.dd2339d5.js",
+    "static/js/787.db50273f.chunk.js": "/carteira_compartilhada_build/static/js/787.db50273f.chunk.js",
+    "static/media/background_not_allowed.webp": "/carteira_compartilhada_build/static/media/background_not_allowed.8d086afd0e0458edd530.webp",
+    "static/media/background_admin.webp": "/carteira_compartilhada_build/static/media/background_admin.ca0e8b25337b3bcb2ad6.webp",
+    "static/media/background_login.webp": "/carteira_compartilhada_build/static/media/background_login.98d43905e17bde8dc6af.webp",
+    "static/media/background_beneficiary.webp": "/carteira_compartilhada_build/static/media/background_beneficiary.f63068d5a03c11fc48e1.webp",
+    "static/media/velocimetro.png": "/carteira_compartilhada_build/static/media/velocimetro.99769c52c277df385d91.png",
+    "static/media/add-group.png": "/carteira_compartilhada_build/static/media/add-group.d591d15f3ae5bb912f85.png",
+    "static/media/etherIcon.png": "/carteira_compartilhada_build/static/media/etherIcon.e9c13b10ba7237061ac4.png",
+    "static/media/income.png": "/carteira_compartilhada_build/static/media/income.c73ec0d74e92641f42a5.png",
+    "static/media/beneficiary.png": "/carteira_compartilhada_build/static/media/beneficiary.01d19813bdcd756554fe.png",
+    "static/media/broken-link.png": "/carteira_compartilhada_build/static/media/broken-link.0907a0ef4ed28f557e68.png",
+    "static/media/seta-esquerda.png": "/carteira_compartilhada_build/static/media/seta-esquerda.357d38748fce12d9c020.png",
+    "static/media/stop.png": "/carteira_compartilhada_build/static/media/stop.d63913896d36db907319.png",
+    "index.html": "/carteira_compartilhada_build/index.html",
+    "main.345b5cb0.css.map": "/carteira_compartilhada_build/static/css/main.345b5cb0.css.map",
+    "main.dd2339d5.js.map": "/carteira_compartilhada_build/static/js/main.dd2339d5.js.map",
+    "787.db50273f.chunk.js.map": "/carteira_compartilhada_build/static/js/787.db50273f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345b5cb0.css",
+    "static/js/main.dd2339d5.js"
+  ]
+}
